@@ -1,0 +1,23 @@
+# robots.txt
+
+
+User-agent: *
+
+Allow: /
+
+Disallow: /js/
+
+Disallow: /css/
+
+Disallow: /fonts/
+
+Disallow: /JSA/
+
+Disallow: /404.html
+
+Disallow: /pages/404.html
+
+
+Sitemap: https://morly.cc/sitemap.xml
+
+
